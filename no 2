@@ -7,4 +7,4 @@ except Exception as err:
 else:
     print('hasil a/b adalah',hasil)
 finally:
-    print('blok kode finally dijalankan'
+    print('blok kode finally dijalankan')
